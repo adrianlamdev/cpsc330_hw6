@@ -1,0 +1,5 @@
+.OTTER_LOG
+.virtual_documents
+.ipynb_checkpoints
+data
+img
